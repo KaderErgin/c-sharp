@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace PatikaHomeWorks
+namespace PatikaHomeWork
 {
     internal class Program
     {
