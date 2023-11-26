@@ -1,6 +1,6 @@
 using System;
 
-namespace TryCatchFinally
+namespace tryCatchFinally
 {
     class Program
     {
