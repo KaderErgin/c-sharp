@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace PatikaHomeWork
+namespace veriables
 {
     internal class Program
     {
