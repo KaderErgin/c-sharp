@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace IfElseIf
+namespace ifElseIf
   class Program
 {
     static void Main(string[] args)
