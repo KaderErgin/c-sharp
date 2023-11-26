@@ -2,7 +2,7 @@ using System;
 
 namespace  algorithmQuestions
 {
-    class birinciSoru
+    class ikinciSoru
     {
         static void Main(string[] args)
         {
